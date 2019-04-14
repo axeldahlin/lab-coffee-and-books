@@ -2,6 +2,18 @@
 
 ## Learning Outcomes
 
+
+
+
+
+
+
+
+
+
+
+
+
 This exercise will help you to:
 - Practice Google Maps API integration with an app
 - Add location properties in your models as GeoJSON
