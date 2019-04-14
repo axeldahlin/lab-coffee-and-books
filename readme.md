@@ -12,6 +12,14 @@
 
 
 
+this is a paragraph with emty lines below and above it
+
+
+
+
+
+
+
 
 
 This exercise will help you to:
